@@ -1,0 +1,201 @@
+* {
+    font-family: 'Rubik', sans-serif;
+}
+
+.navabar {
+    margin-left: 60%;
+}
+
+.btn-login {
+    background-color: hsl(0, 94%, 66%);
+    border: none;
+    height: 30px;
+    margin-top: 10px;
+}
+
+.login-txt {
+    font-size: 13px;
+}
+
+.top-nav {
+    font-size: 25px !important;
+}
+
+.nav-feature {
+    margin-left: -220px;
+}
+
+.banner-heading {
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size: 50px;
+}
+
+.banner-sub-heading {
+    margin-left: 100px;
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+.btn-css {
+    margin-left: 90px;
+}
+
+.chrome-btn-txt {
+    font-size: 13px;
+}
+
+.this-btn {
+    background-color: hsl(231, 69%, 60%);
+    border: none;
+}
+
+.get-in-btn {
+    background-color: hsl(231, 69%, 60%);
+    border: none;
+}
+
+.fire-btn {
+    margin-left: 15px;
+}
+
+.banner-div {
+    background-color: hsl(231, 69%, 60%);
+    height: 300px;
+    margin-top: 160px;
+    width: 450px;
+    margin-left: 213px;
+    border-top-left-radius: 40%;
+    border-bottom-left-radius: 40%;
+}
+
+.banner-img {
+    height: 400px;
+    width: 520px;
+    margin-top: -450px;
+}
+
+.bg-primary {
+    background-color: hsl(231, 69%, 60%);
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+
+.feature {
+    margin-left: 35%;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    border-bottom: 2px solid red;
+    background-color: unset;
+    color: #000;
+}
+
+.version-txt {
+    font-size: 13px;
+}
+
+.nav-pills .nav-link {
+    color: #000
+}
+
+.row {
+    margin-right: 0px;
+}
+
+.blue-baackground {
+    height: 250px;
+    width: 430px;
+    border-top-right-radius: 40%;
+    border-bottom-right-radius: 40%;
+    background-color: hsl(231, 69%, 60%);
+    margin-top: 130px;
+}
+
+.content-1-img {
+    width: 400px;
+    height: 250px;
+    margin-top: -55px;
+    margin-left: 130px;
+}
+
+.content-txt {
+    margin-top: 120px;
+}
+
+.collpas-tab {
+    margin-left: 30%;
+}
+
+.collaps-btn {
+    width: 200px;
+}
+
+.extension {
+    margin-left: 30%;
+    margin-top: 100px !important;
+}
+
+.left {
+    margin-left: 180px;
+}
+
+.about {
+    margin-top: 10px;
+}
+
+.chrome-btn {
+    margin-top: 10px;
+}
+
+.faq-width {
+    width: 500px;
+}
+
+.app-box {
+    position: relative;
+}
+
+.app-box:hover {
+    background-color: #eee;
+}
+
+.accordion-button::after {
+    color: blue;
+}
+
+.dots {
+    margin-left: -40px;
+}
+
+.cont-btn {
+    width: 150px;
+    background-color: hsl(0, 94%, 66%);
+    font-size: 13px;
+}
+
+.place-txt {
+    font-size: 11px;
+}
+
+.navbar-brand {
+    margin-left: 1rem;
+}
+
+.footer {
+    margin-left: 200px;
+}
+
+.foot-div {
+    width: 400px;
+}
+
+.social-icon {
+    margin-left: 600px;
+}
+
+.accordion-button::after {
+    background-image: url(images/icon-arrow.svg);
+}
